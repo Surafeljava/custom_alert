@@ -1,8 +1,8 @@
 name: customalert
-description: Custom alert package
+description: Custom alert can show customizable and flexible alerts
 version: 0.0.1
-author:
-homepage:
+author: Surafel Kindu <surafelk27@gmail.com>
+homepage: https://github.com/Surafeljava/custom_alert.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
